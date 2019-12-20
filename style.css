@@ -1,0 +1,40 @@
+body {
+    font-family: 'Cormorant Garamond', serif;
+    margin: auto;
+    text-align: center;
+}
+
+header {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: large;
+    color: dimgray;
+    margin-bottom: 25px;    
+}
+
+h3 {
+    text-align: center;
+    color: dimgray;
+    padding: 100px;
+}
+
+#full {
+    text-align: center;
+    margin-top: 50px;
+    color: darkgray;
+}
+
+.class {
+    margin-top: 50px;
+
+}
+
+.col {
+    margin-right: 25 px;
+}
+footer {
+    text-align: center;
+    color: dimgray;
+    padding: 50px;
+    background-color: lightgray;
+    margin-top: 50px;
+}
