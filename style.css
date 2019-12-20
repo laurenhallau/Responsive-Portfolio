@@ -15,7 +15,7 @@ header {
 h3 {
     text-align: center;
     color: dimgray;
-    padding: 100px;
+    padding: 50px;
 }
 
 #full {
@@ -31,6 +31,11 @@ h3 {
 p {
     margin: auto;
     text-align: left;
+    padding: 10px;  
+}
+
+.contact {
+
 }
 
 footer {
@@ -41,6 +46,16 @@ footer {
     margin-top: 100px;
     font-family: 'Cormorant Garamond', serif;
 }
-@media (max-width: 700px) {
+
+@media screen and (max-width: 600px) {
+    .topnav a {
+      float: none;
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 700px) {
     .row, .navbar {   
       flex-direction: column;
+    }
+  }
