@@ -28,13 +28,15 @@ h3 {
 
 }
 
-.col {
-    margin-right: 25 px;
+p {
+    margin: auto;
 }
+
 footer {
     text-align: center;
     color: dimgray;
     padding: 50px;
     background-color: lightgray;
     margin-top: 50px;
+    font-family: 'Cormorant Garamond', serif;
 }
